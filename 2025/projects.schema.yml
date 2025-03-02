@@ -1,0 +1,22 @@
+version: 1
+imports: []
+schemas:
+  - id: projects
+    title: Projects
+    desc: All company projects
+    parent: root
+    children:
+      - pattern: '*'
+        template: templates.project
+        
+  - id: projects.*
+    title: Project
+    desc: A specific project
+    parent: projects
+    children: 
+      - pattern: tasks
+        template: templates.tasks
+      - pattern: notes
+        template: templates.meeting-notes
+      - pattern: resources
+        template: templates.resources
