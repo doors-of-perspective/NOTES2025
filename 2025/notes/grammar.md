@@ -2,7 +2,7 @@
 id: goanfik0zu596a9973k0y3z
 title: Grammar
 desc: ''
-updated: 1740938255144
+updated: 1740939399237
 created: 1740937702977
 ---
 
@@ -13,7 +13,7 @@ This is where you practice with real examples and track what you got right or wr
 
 [[grammar.Qchapter1]]
 
-
+[[grammar.Qchapter2]] 
 ---
 
 ## Rules
