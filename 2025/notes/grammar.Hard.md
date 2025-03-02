@@ -2,7 +2,7 @@
 id: p8wb46ikkul92emfx8c13rj
 title: chapter 1 hard
 desc: ''
-updated: 1740936944036
+updated: 1740939913414
 created: 1740519605874
 ---
 ## 3.	 The twins will be happy on their birthday when they receive your present!
@@ -65,6 +65,9 @@ auxiliary verb "**has**" and the past participle "**carried**." The main verb is
 
 
 ![alt text](image-26.png)
+
+NOTE:
+[[grammar.auxverb]]
 
 </details>
 
