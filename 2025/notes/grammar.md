@@ -32,6 +32,22 @@ Here you build the grammar rules as you learn them.
 
 
 make note:
+# My Notes Dashboard
+
+## 📋 Status Overview
+
+| Status | Count | Notes |
+|---|---|---|
+| 🟡 Unfinished | `{{queryCount:tag:status/unfinished}}` | [View All](#unfinished-notes) |
+| 🟠 In Progress | `{{queryCount:tag:status/in-progress}}` | [View All](#in-progress-notes) |
+| ✅ Done | `{{queryCount:tag:status/done}}` | [View All](#done-notes) |
+
+---
+
+## 🟡 Unfinished Notes
+
+```query
+tag:status/unfinished
 
 
 ---

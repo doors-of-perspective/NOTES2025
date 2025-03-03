@@ -193,3 +193,81 @@ The first verb form is an introductory participle. In other words, sliding is a 
 </details>
 
 - 
+
+## Choosing Simple and Perfect Tense Verb Forms
+### 16–55 Select the tense and form of the verb in parentheses that fits the meaning of the sentence.
+
+20.	 Last week I tossed a bit of my dinner under the table because the dog _____(to beg) for scraps while I ate.
+
+<details>
+<summary>Click to reveal answer</summary>
+
+20.
+**was begging (Last week I tossed a bit of my dinner under the table because the dog was**
+begging for scraps while I ate.) The verb in the first portion of the sentence, tossed, indicates an action that took place while another action occurred. The singular, past progressive tense gives a sense of an action, begging, that occurred over some time. The simple past-tense form, begged, would also work here, but the immediacy of past progressive tense is better.
+
+</details>
+
+22.	 Mr. Martin _____ (to trim) the tree after he had watered it.
+
+<details>
+<summary>Click to reveal answer</summary>
+
+22.
+**trimmed (Mr. Martin trimmed the tree after he had watered it.)**
+In this sentence the busy Mr. Martin is doing two things, trimming and watering, but these actions occur at different times. Standard English requires that the earlier action, the watering, be in past perfect tense (had watered). The action that occurs second is expressed in simple past tense, trimmed.
+
+</details>
+
+23.	 While Harry _____ (to wash) the clothes, Oliver was brushing the dog’s matted fur.
+
+<details>
+<summary>Click to reveal answer</summary>
+
+23.
+**was washing (While Harry was washing the clothes, Oliver was brushing the dog’s**
+matted fur.) The second portion of the sentence indicates that the action took place in the past (was brushing). The singular, past progressive form, was washing, works nicely here, because the actions happen at the same time and only one person was involved in the washing. (The simple past tense, washed, could also work in this sentence.)
+
+</details>
+
+- 
+
+- 
+25.	 Carla _____ (to fill) the gas tank before she realized that her credit card was not in her wallet.
+
+<details>
+<summary>Click to reveal answer</summary>
+
+25.
+**had filled (Carla had filled the gas tank before she realized that her credit card was not in**
+her wallet.) Two actions occur in this sentence. Both are in the past, but one takes place before the other. Standard English requires that the earlier action be in past perfect tense (had filled). The action that occurs second is expressed in simple past tense, realized.
+
+</details>
+
+- 
+
+26.	 By the time George gets home, Maria _____(to gobble) all the cookies, and George hates all the other snacks.
+
+<details>
+<summary>Click to reveal answer</summary>
+
+26.
+**will have gobbled (By the time George gets home, Maria will have gobbled all the cookies,**
+and George hates all the other snacks.) The sentence includes a deadline — the time George gets home — and something that happens before the deadline — Maria’s snack attack. The future perfect tense, will have gobbled, is made for just such a situation.
+
+</details>
+
+- 
+
+27.	 When I _____ (to bake) the cookies, I placed them on the dining room table.
+
+<details>
+<summary>Click to reveal answer</summary>
+
+27.
+**had baked (When I had baked the cookies, I placed them on the dining room table.)**
+Two actions in the past show up in this sentence, the baking of the cookies and their placement on the table. Logic tells you that the baking happened before I placed the cookies somewhere other than in the oven. To move one action further in the past than another, use the past perfect tense, had baked.
+
+</details>
+
+- 
