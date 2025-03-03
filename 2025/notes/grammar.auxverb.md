@@ -22,6 +22,10 @@ auxiliary verb "**has**" and the past participle "**carried**." The main verb is
 ![alt text](image-26.png)
 ---
 
+Aux verbs - assist the verb - helping verbs 
+
+![alt text](image-41.png)
+
 ## Related Rules
 - 
 ---

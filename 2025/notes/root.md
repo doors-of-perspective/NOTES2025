@@ -15,6 +15,9 @@ created: 1740519307636
 - music 
 - writing 
 
+[[grammar.md]]
+
+
 ## Lookup
 
 This section contains useful links to related resources.

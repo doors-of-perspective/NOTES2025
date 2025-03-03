@@ -188,7 +188,7 @@ Three words make up the first verb in this sentence, has been judged, but the se
 
 15.
 **guided**
-The first verb form is an introductory participle. In other words, sliding is a description of ski instructor. You know it doesn’t function as a verb because it doesn’t follow a con- junction such as while, after, before, or a similar word. The action verb that pairs with ski instructor is guided, the only verb in this sentence.
+The first verb form is an introductory participle. In other words, sliding is a description of ski instructor. You know it doesn’t function as a verb because it doesn’t follow a conjunction such as while, after, before, or a similar word. The action verb that pairs with ski instructor is guided, the only verb in this sentence.
 
 </details>
 
