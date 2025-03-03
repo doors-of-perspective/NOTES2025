@@ -2,7 +2,7 @@
 id: goanfik0zu596a9973k0y3z
 title: Grammar
 desc: ''
-updated: 1741041993995
+updated: 1741042244940
 created: 1740937702977
 ---
 
@@ -39,16 +39,18 @@ make note:
 
 | Status | Notes |
 |---|---|
-| 🟡 Unfinished | [Grammar](#unfinished-notes) |
-| 🟠 In Progress | [Grammar](#in-progress-notes) |
-| ✅ Done | [Grammar](#done-notes) |
+| 🟡 Unfinished | ![[tags.status.unfinished]] |
+| 🟠 In Progress | ![[tags.status.in-progress]] |
+| ✅ Done | ![[tags.status.done]] |
 
 ---
 
-## 🟡 Unfinished Notes {#unfinished-notes}
+## 🟡 Unfinished Notes 
 
-tag.status.unfinished
-
+tags: 
+  - tags.status.unfinished
+  - grammar
+  
 ## 🟠 In Progress Notes {#in-progress-notes}
 
 tag.status.in-progress
