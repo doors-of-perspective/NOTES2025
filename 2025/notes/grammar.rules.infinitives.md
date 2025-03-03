@@ -2,11 +2,10 @@
 id: kis4hfyrxonnmr3byxkkkor
 title: Infinitives
 desc: ''
-updated: 1741041958749
+updated: 1741043029426
 created: 1741009316298
-tags: 
-  - status.unfinished
-  - grammar
+tags: #status.inprogress
+
 ---
 
 #status/unfinished

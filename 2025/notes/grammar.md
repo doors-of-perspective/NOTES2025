@@ -2,7 +2,7 @@
 id: goanfik0zu596a9973k0y3z
 title: Grammar
 desc: ''
-updated: 1741042244940
+updated: 1741043141962
 created: 1740937702977
 ---
 
@@ -29,21 +29,38 @@ Here you build the grammar rules as you learn them.
 [[grammar.rules]]
 
 
-
-
 make note:
 
-# My Notes Dashboard
+# Notes Dashboard
 
-## 📋 Status Overview
+# Grammar Notes Dashboard
 
-| Status | Notes |
-|---|---|
-| 🟡 Unfinished | ![[tags.status.unfinished]] |
-| 🟠 In Progress | ![[tags.status.in-progress]] |
-| ✅ Done | ![[tags.status.done]] |
+## Completed Rules
+![[#status.complete]]
 
+## In Progress Rules
+![[#status.inprogress]]
+
+## Todo Rules
+![[#status.todo]]
 ---
+
+## 🟡 Unfinished Notes
+
+[[tag.status.unfinished]]
+
+## 🟠 In Progress Notes
+
+[[tag.status.in-progress]]
+
+## ✅ Done Notes
+
+[[tag.status.done]]
+
+## 🟡 Glossary
+Key definitions for quick reference
+
+--
 
 ## 🟡 Unfinished Notes 
 

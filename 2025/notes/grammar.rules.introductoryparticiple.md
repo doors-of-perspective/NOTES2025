@@ -2,10 +2,10 @@
 id: qhvkid6j23kfbtt93xu3m2e
 title: Introductoryparticiple
 desc: ''
-updated: 1741040791772
+updated: 1741043046502
 created: 1741009531146
+tags: #status.complete
 ---
-#status/done
 
 
 # Introductory Participle
