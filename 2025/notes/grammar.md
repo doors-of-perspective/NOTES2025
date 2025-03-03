@@ -2,7 +2,7 @@
 id: goanfik0zu596a9973k0y3z
 title: Grammar
 desc: ''
-updated: 1740939967586
+updated: 1741041993995
 created: 1740937702977
 ---
 
@@ -24,7 +24,7 @@ This is where you practice with real examples and track what you got right or wr
 ## Rules
 Here you build the grammar rules as you learn them.
 
-[[grammar.auxverb]]
+[[grammar.rules.auxverb]]
 
 [[grammar.rules]]
 
@@ -32,28 +32,35 @@ Here you build the grammar rules as you learn them.
 
 
 make note:
+
 # My Notes Dashboard
 
 ## 📋 Status Overview
 
-| Status | Count | Notes |
-|---|---|---|
-| 🟡 Unfinished | `{{queryCount:tag:status/unfinished}}` | [View All](#unfinished-notes) |
-| 🟠 In Progress | `{{queryCount:tag:status/in-progress}}` | [View All](#in-progress-notes) |
-| ✅ Done | `{{queryCount:tag:status/done}}` | [View All](#done-notes) |
+| Status | Notes |
+|---|---|
+| 🟡 Unfinished | [Grammar](#unfinished-notes) |
+| 🟠 In Progress | [Grammar](#in-progress-notes) |
+| ✅ Done | [Grammar](#done-notes) |
 
 ---
 
-## 🟡 Unfinished Notes
+## 🟡 Unfinished Notes {#unfinished-notes}
 
-```query
-tag:status/unfinished
+tag.status.unfinished
 
+## 🟠 In Progress Notes {#in-progress-notes}
 
----
+tag.status.in-progress
 
-## Glossary
-Key definitions for quick referenc
+## ✅ Done Notes {#done-notes}
+
+tag.status.done
+
+## 🟡 Glossary
+Key definitions for quick reference
+
+--
 
 --
 

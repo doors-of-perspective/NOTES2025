@@ -2,10 +2,12 @@
 id: 6snjrc136e7hs2p7iql2se2
 title: Futureperfecttense
 desc: ''
-updated: 1741020911311
+updated: 1741042005508
 created: 1741020911311
----
-#status/unfinished 
+tags: [status/unfinished, grammar]  
+--- 
+
+
 
 future perfect tense
 

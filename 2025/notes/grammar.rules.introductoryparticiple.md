@@ -2,9 +2,12 @@
 id: qhvkid6j23kfbtt93xu3m2e
 title: Introductoryparticiple
 desc: ''
-updated: 1741009531146
+updated: 1741040791772
 created: 1741009531146
 ---
+#status/done
+
+
 # Introductory Participle
 
 An introductory participial phrase is a participial phrase that is positioned at the start of a sentence. 

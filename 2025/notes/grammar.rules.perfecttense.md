@@ -2,9 +2,11 @@
 id: wdvpbgjmo2on1m0jh93yem1
 title: Perfecttense
 desc: ''
-updated: 1741019701751
+updated: 1741040791760
 created: 1741019701751
 ---
+#status/unfinished
+
 # Present Perfect 
 
 The tense that connects present and past is present perfect. 

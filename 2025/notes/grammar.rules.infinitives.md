@@ -2,9 +2,15 @@
 id: kis4hfyrxonnmr3byxkkkor
 title: Infinitives
 desc: ''
-updated: 1741009316298
+updated: 1741041958749
 created: 1741009316298
+tags: 
+  - status.unfinished
+  - grammar
 ---
+
+#status/unfinished
+
 # Infinitives
 
 Infinitives, the “to + verb” form, simply name the verb family. **They never function as verbs in a sentence**. 

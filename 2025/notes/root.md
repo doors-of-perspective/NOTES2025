@@ -2,7 +2,7 @@
 id: rwjaj02ci4afyzmwhsomrgu
 title: Root
 desc: ''
-updated: 1740519307636
+updated: 1741040791782
 created: 1740519307636
 ---
 # Welcome 
@@ -11,12 +11,12 @@ created: 1740519307636
 
 # Interests 
 
-- grammar
+- grammar [[grammar]]
 - music 
 - writing 
 - blender
 
-[[grammar.md]]
+
 
 
 ## Lookup

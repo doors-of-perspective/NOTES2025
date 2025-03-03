@@ -67,7 +67,7 @@ auxiliary verb "**has**" and the past participle "**carried**." The main verb is
 ![alt text](image-26.png)
 
 NOTE:
-[[grammar.auxverb]]
+[[grammar.rules.auxverb]]
 
 </details>
 

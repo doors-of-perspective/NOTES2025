@@ -2,9 +2,11 @@
 id: aqvchhqk1l9ydeymq2zsqro
 title: Verbalphrase
 desc: ''
-updated: 1741010296013
+updated: 1741040791756
 created: 1741010296013
 ---
+
+#status/in-progress
 
 # Verbal Phrases
 A verbal phrase is any phrase that begins with a verb but doesn't act as a main verb in the sentence. It can function as a noun, adjective, or adverb. Verbal phrases can include participles, infinitives, and gerunds.
