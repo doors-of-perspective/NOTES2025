@@ -24,57 +24,17 @@ This is where you practice with real examples and track what you got right or wr
 ## Rules
 Here you build the grammar rules as you learn them.
 
-[[grammar.rules.auxverb]]
 
 [[grammar.rules]]
 
 
 make note:
 
-# Notes Dashboard
 
-# Grammar Notes Dashboard
+## Grammar Notes Dashboard
 
-## Completed Rules
-![[#status.complete]]
+[[grammar.WIP.md|Work In Progress]]
 
-## In Progress Rules
-![[#status.inprogress]]
-
-## Todo Rules
-![[#status.todo]]
----
-
-## 🟡 Unfinished Notes
-
-[[tag.status.unfinished]]
-
-## 🟠 In Progress Notes
-
-[[tag.status.in-progress]]
-
-## ✅ Done Notes
-
-[[tag.status.done]]
-
-## 🟡 Glossary
-Key definitions for quick reference
-
---
-
-## 🟡 Unfinished Notes 
-
-tags: 
-  - tags.status.unfinished
-  - grammar
-  
-## 🟠 In Progress Notes {#in-progress-notes}
-
-tag.status.in-progress
-
-## ✅ Done Notes {#done-notes}
-
-tag.status.done
 
 ## 🟡 Glossary
 Key definitions for quick reference
