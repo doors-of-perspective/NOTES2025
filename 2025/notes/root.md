@@ -16,7 +16,14 @@ created: 1740519307636
 - writing 
 - blender
 
+# Todo 
 
+- [x] 
+- [ ] Teaching Qual table 
+- [ ] Marking 
+- [ ] Behaviour 
+- [ ] Grammar 
+- [ ] Clean this up links working etc https://www.loom.com/share/88cfdc3e900a4f4eadf7b14429e01d65 
 
 
 ## Lookup
