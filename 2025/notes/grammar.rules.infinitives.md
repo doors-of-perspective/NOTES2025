@@ -2,7 +2,7 @@
 id: kis4hfyrxonnmr3byxkkkor
 title: Infinitives
 desc: ''
-updated: 1741043029426
+updated: 1741212582293
 created: 1741009316298
 tags: WIP
 
@@ -18,3 +18,5 @@ Infinitives, the “to + verb” form, simply name the verb family. **They never
 TO = infinitive 
 
 ![alt text](image-28.png)
+
+[[grammar.WIP]] 

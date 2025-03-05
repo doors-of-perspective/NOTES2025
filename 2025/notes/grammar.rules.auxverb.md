@@ -2,7 +2,7 @@
 id: nowxi5jnpsclv1vo93vug7v
 title: Auxverb
 desc: ''
-updated: 1741042838677
+updated: 1741212585355
 created: 1740939802990
 tags: done
 
@@ -38,3 +38,6 @@ Aux verbs - assist the verb - helping verbs
 
 ## Tags
 #find-the-verb #auxiliary #adverb #status/unfinished
+
+# Status 
+[[grammar.WIP]]
